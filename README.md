@@ -1,7 +1,7 @@
 # fokkerplanck
 
 The content of this repository is the Supplementary material associated to the project *Modeling Hydrogen Deuterium Exchange as a Stochastic Process*. 
-The comprehension of the content of the repository is strictly linked to the content of the main paper (still to be uploaded).
+The comprehension of the content of the repository is strictly linked to the content of the main paper (pdf file).
 
 The file **solve.py** contains the script to perform numerical integration of the Michaelis Menten model that describes hydrogen deuterium uptake. 
 The parameters of the integration (initial conditions, time step, total number of steps,...) can be changed within the script. 
